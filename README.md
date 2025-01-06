@@ -24,8 +24,8 @@ Cleaned layoffs data in SQL
 
 ### Tools
 
-- MySQL Workbench - Data Cleaning & Exploratory Data Analysis
-  - [Download here](https://dev.mysql.com/downloads/installer/)
+- Microsoft Power BI - Data Cleaning & Exploratory Data Analysis
+  - [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 ### Data Cleaning
 
