@@ -20,7 +20,9 @@ Used Power BI to create a dashboard to display data on various survey answers fr
 Cleaned layoffs data in SQL
 
 ### Data Sources
-
+Data Professional Survey Data: The primary dataset used for this analysis is the "Data Professionals Survey Project.xlsx" file, 
+containing answers to several survey questions
+including role, age, industry, salary, etc.
 
 ### Tools
 
@@ -30,8 +32,10 @@ Cleaned layoffs data in SQL
 ### Data Cleaning
 
 In the initial data preparation phase, I performed the following tasks: 
-1. dwasd
-2. dada
+1. Removed unwanted columns
+2. Filtered data and standardized responses to fit a category
+3. Used Dax to transform the salary range column into a salary average column
+4. dada
 
 ### Exploratory Data Analysis
 
@@ -58,12 +62,3 @@ The analysis results are summarized as follows:
 2. dsd
 3. ds
 4. ds
-
-### Recommendations
-
-### Limitations
-
-### References
-
-1. dfksdfj
-2. dsd
